@@ -1,0 +1,25 @@
+body {
+    background-color: yellowgreen
+}
+
+h1 {
+    text-align: center;
+    color: darkred;
+}
+
+img {
+    height: auto;
+    width: 200px;
+}
+
+h2, h3 {
+    color: darkblue;
+}
+
+p, li {
+    color: yellow;
+}
+
+#home {
+    color: black;
+}

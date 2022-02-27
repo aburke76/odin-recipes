@@ -1,0 +1,25 @@
+body {
+    background-color: tan;
+}
+
+h1 {
+    color: pink;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: auto;  
+}
+
+h2, h3 {
+    color:yellow;
+}
+
+p, li {
+    color: blue;
+}
+
+#home {
+    color: black;
+}
